@@ -1,0 +1,143 @@
+.block-action {
+  text-align: center;
+  &_absolute {
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    left: 0;
+  }
+}
+
+.gho-btn-action {
+  min-height: 60px;
+  min-width: 260px;
+  border-radius: 100px;
+  margin: 10px;
+  color: #fff;
+  font-family: "Filson Soft";
+  font-size: 24px;
+  line-height: 1;
+  box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.25);
+  transition: all 0.4s ease-in-out;
+  outline: none !important;
+  &.f-20 {
+    font-size: 20px;
+  }
+  &__next {
+    background-color: $next-color;
+  }
+  &__tryagain {
+    background-color: $tryagain-color;
+    border: 2px solid #be4a36;
+  }
+  &__correct {
+    background-color: $correct-color;
+    color: $title-black;
+    border: 2px solid #7fb76c;
+  }
+  &__back,
+  &__exit {
+    background-color: $back-color;
+  }
+  &:hover,
+  &:focus {
+    box-shadow: inset 0px -8px 0px rgba(0, 0, 0, 0.25);
+  }
+}
+
+.gho-icon-btn {
+  position: relative;
+  &::before {
+    position: absolute;
+    top: calc(50% - 2px);
+    transform: translateY(-50%);
+    font-size: 20px;
+    font-family: "icomoon";
+  }
+  &__left {
+    &::before {
+      content: "\e902";
+      left: 28px;
+      transition: left 0.5s ease-in-out;
+    }
+    &:hover {
+      &::before {
+        left: 20px;
+      }
+    }
+  }
+  &__right {
+    &::before {
+      content: "\e901";
+      right: 28px;
+      transition: right 0.5s ease-in-out;
+    }
+    &:hover {
+      &::before {
+        right: 20px;
+      }
+    }
+  }
+  &__exit {
+    &::before {
+      content: "\e900";
+      left: 28px;
+      transition: left 0.5s ease-in-out;
+    }
+    &:hover {
+      &::before {
+        left: 20px;
+      }
+    }
+  }
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.flex-start {
+  justify-content: flex-start !important;
+}
+
+body .uwy .uai {
+  right: 48px !important;
+  top: 35px !important;
+}
+
+.ratio-square {
+  height: 0;
+  padding-top: 100%;
+
+  &-half {
+    padding-top: 50%;
+  }
+}
+
+.ratio-square-left {
+  width: 0;
+  padding-left: 100%;
+}
+
+.ratio-220-310 {
+  height: 0;
+  padding-top: 141%;
+}
+
+.ratio-260-181 {
+  height: 0;
+  padding-top: 47%;
+}
+
+.ratio-width-95 {
+  width: 0;
+  padding-left: 50%;
+}
+
+@media (max-width: 1024px) {
+  .gho-btn-action {
+    min-width: 220px;
+    font-size: 22px;
+    min-height: 50px;
+  }
+}
