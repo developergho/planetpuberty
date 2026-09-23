@@ -24,5 +24,3 @@ node_modules/
 .storybook
 .idea
 *.DS_Store
-# build output
-/build

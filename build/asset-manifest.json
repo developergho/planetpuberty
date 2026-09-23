@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01f40900.css",
+    "main.js": "/static/js/main.d12c49c3.js",
+    "static/js/27.aafb7e15.chunk.js": "/static/js/27.aafb7e15.chunk.js",
+    "static/media/play-game.png": "/static/media/play-game.94b0af8700769696c1c4.png",
+    "static/media/bg-game-feeling-rotate@2x.png": "/static/media/bg-game-feeling-rotate@2x.332fb17ec5b40fca2aa1.png",
+    "static/media/bg-orbit-rotate@2x.png": "/static/media/bg-orbit-rotate@2x.63d7488a67fb9f8c8ea6.png",
+    "static/media/instructions-3.png": "/static/media/instructions-3.9fd5d888f139719ec209.png",
+    "static/media/mobile-bg.png": "/static/media/mobile-bg.04db4e6fbaae892eb509.png",
+    "static/media/instructions-2.png": "/static/media/instructions-2.1c170cfac7c6a3c3799d.png",
+    "static/media/instructions-1.png": "/static/media/instructions-1.aec4118e1fbf750ddb71.png",
+    "static/media/playstyle.png": "/static/media/playstyle.a870a92bdca833543b13.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fa7e6e7d259aa22ddca2.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.fef2e08e00059465ae6a.ttf",
+    "static/media/player-name.png": "/static/media/player-name.cc3a935fb4db240a24e8.png",
+    "static/media/feeling-bg-getstart@2x.png": "/static/media/feeling-bg-getstart@2x.dd2e605beb3af11b5026.png",
+    "static/media/FilsonSoftMedium.ttf": "/static/media/FilsonSoftMedium.dd15898b9375072c4746.ttf",
+    "static/media/FilsonSoftBook.ttf": "/static/media/FilsonSoftBook.4c833a284c424a5452e9.ttf",
+    "static/media/FilsonSoftBlack.ttf": "/static/media/FilsonSoftBlack.d54dfb66e071c3d499dd.ttf",
+    "static/media/ufo-background@2x.png": "/static/media/ufo-background@2x.f12df80ac4093ecccf8e.png",
+    "static/media/ready-bg.png": "/static/media/ready-bg.f0daaff10b2f75e100fb.png",
+    "static/media/UFO.svg": "/static/media/UFO.9f3a3ba246c79d7217a0008c556167d9.svg",
+    "static/media/bg-game1.png": "/static/media/bg-game1.c590564a7d18df8d3557.png",
+    "static/media/rotate-bg.png": "/static/media/rotate-bg.2cfb6e5be942241f17fb.png",
+    "static/media/private.svg": "/static/media/private.4a181d03fa56ea3ebeeca05a12cc68fa.svg",
+    "static/media/public.svg": "/static/media/public.43c0ccdc6c9566ea9d74fbcdb244dc88.svg",
+    "static/media/icomoon.svg?ei9nkg": "/static/media/icomoon.7feb3db08d1f2806d49f.svg",
+    "static/media/icomoon.eot?ei9nkg": "/static/media/icomoon.7edcabd04f1e6550d95f.eot",
+    "static/media/icomoon.woff?ei9nkg": "/static/media/icomoon.502d11bdd84dc0f2f2b8.woff",
+    "static/media/icomoon.ttf?ei9nkg": "/static/media/icomoon.d10423e7f0ea8a100057.ttf",
+    "static/media/left-swipe.svg": "/static/media/left-swipe.f4b93f0fdc973850c37a.svg",
+    "static/media/right-swipe.svg": "/static/media/right-swipe.d5c424f2baae96828fc4.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.01f40900.css",
+    "static/js/main.d12c49c3.js"
+  ]
+}
